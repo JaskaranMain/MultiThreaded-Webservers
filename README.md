@@ -20,13 +20,10 @@ Once the server is running, it will listen for incoming HTTP requests on the spe
 If you have any questions, suggestions, or feedback, feel free to contact 
 <hr>
 <h2>Notes</h2>
-![1](https://github.com/user-attachments/assets/3806093c-c38a-472b-8006-3da14132c698)
-![2](https://github.com/user-attachments/assets/06cdf996-1862-43f8-8f54-bd0025e3e2ba)
-![3](https://github.com/user-attachments/assets/7817f3c6-e217-4cf6-a985-b5a6bc42186c)
-![4](https://github.com/user-attachments/assets/05d53cdb-4425-4a93-ae13-926e6704184b)
-![5](https://github.com/user-attachments/assets/67bd7cba-fb6c-49f8-a611-9b220a4a4bc5)
-![6](https://github.com/user-attachments/assets/d9372d89-1a62-4482-b483-68be54defd09)
-![7](https://github.com/user-attachments/assets/5f64bf1a-6545-4934-ad53-6b4e2b132a47)
-![8](https://github.com/user-attachments/assets/70c60ce1-b6fa-4cbe-b382-944600f898a2)
-![9](https://github.com/user-attachments/assets/8a00897e-dbe0-4927-8fcc-e73f790528ed)
-![10](https://github.com/user-attachments/assets/f6f354bf-3734-4cf3-b009-f23a88f5d5d8)
+
+![1](https://github.com/user-attachments/assets/0a4d7163-5b43-41ea-86dc-a74cc77063d3)
+![2](https://github.com/user-attachments/assets/947e5dd0-c467-4dea-8021-4a597d6b2362)
+![3](https://github.com/user-attachments/assets/8374b8b9-b145-4b9f-97f9-05490a45391c)
+![4](https://github.com/user-attachments/assets/049d152f-5f3a-4eef-b45b-ad9f76036759)
+![5](https://github.com/user-attachments/assets/4dbc49e1-2c5d-45ba-80b2-da6149724429)
+![6](https://github.com/user-attachments/assets/883cdb76-1d04-4c58-b654-8bbdb8b530f2)
