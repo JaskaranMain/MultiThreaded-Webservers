@@ -20,7 +20,6 @@ Once the server is running, it will listen for incoming HTTP requests on the spe
 If you have any questions, suggestions, or feedback, feel free to contact 
 <hr>
 <h2>Notes</h2>
-<hr>
 ![WhatsApp Image 2024-07-15 at 01 48 51_70623648](https://github.com/user-attachments/assets/9ae20eba-1764-488e-b21d-258ac791429d)
 ![WhatsApp Image 2024-07-15 at 01 48 54_f18a199d](https://github.com/user-attachments/assets/4c76feb8-0735-4b24-bd97-472a7d49d6d9)
 ![WhatsApp Image 2024-07-15 at 01 48 53_769510c9](https://github.com/user-attachments/assets/0c5ea8ea-bb6f-499f-830b-05c4ca0719ac)
