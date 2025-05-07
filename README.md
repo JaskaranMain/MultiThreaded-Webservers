@@ -17,10 +17,6 @@ Once the server is running, it will listen for incoming HTTP requests on the spe
 - Multithreaded architecture for handling concurrent connections
 - Support for basic HTTP methods (GET, POST)
 - Configurable server settings (port number, maximum number of threads, etc.)
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact 
 <hr>
 <h2>Notes</h2>
 
